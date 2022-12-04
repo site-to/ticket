@@ -1,6 +1,7 @@
-# ticket_site
+# ticket sale website
 
-
+## *link do naszej strony*
+[]("site-to.github.io/ticket/")
 ## *problem_1*
 Github pozwala na hostowanie strony pod warunkiem posiadania publicznego repozytorium,
 ewentualnie jak się kupi pakiet roczny, można hostować mając repo jako priv. Więc
