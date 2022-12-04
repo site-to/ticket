@@ -1,6 +1,4 @@
-# ticket sale website
-
-## *link do naszej strony*
+## *link do strony tak na szybko*
 https://site-to.github.io/ticket/
 ## *problem_1*
 Github pozwala na hostowanie strony pod warunkiem posiadania publicznego repozytorium,
